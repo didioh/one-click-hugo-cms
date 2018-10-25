@@ -1,7 +1,7 @@
 ---
 title: test2
 date: 2018-10-24T17:46:18.381Z
-description: test2
+description: CI is cool
 image: /img/blog-index.jpg
 ---
 1. tlajskdjsakjdklj alksdjlkasjd l
